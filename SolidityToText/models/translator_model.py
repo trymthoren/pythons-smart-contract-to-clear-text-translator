@@ -5,9 +5,9 @@ from transformers import AdamW, get_linear_schedule_with_warmup
 import numpy as np
 import os
 
-'''
-Read the comments if you are looking to add code, make your own version or something. PS: Help is appreachiated :)
-'''
+# PS!
+# Read the comments if you are looking to add code, make your own version or something. PS: Help is appreachiated :)
+
 
 # Custom dataset class for handling Solidity code snippets and their clear text descriptions
 # This class is essential for preprocessing and loading the data into the model in a structured format.
