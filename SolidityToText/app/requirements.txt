@@ -3,3 +3,4 @@ pandas
 matplotlib
 transformers
 torch
+tkinter  # Note: tkinter is usually included with Python, might not need to be explicitly installed
